@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+- This page provides materials and resources for the _Metabolomics Data Analysis_ course to be held in Barcelna 10-14 June 20-24
+
+- Prepared using [quarto](https://quarto.org) and rendered from github using github pages
+
+- Link to course: [https://estbioinfoUB.github.io/MetaboDAt](https://estbioinfoUB.github.io/MetaboDAt)
+

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Metabolomics Data Analysis Course"
+  sidebar:
+    background: primary
+    style: docked
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - heref: sessions.qmd
+        text: Sessions and Schedule
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

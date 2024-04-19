@@ -12,8 +12,8 @@ Hands-on practical tutorials using various data sets and tools will assist parti
 
 The course will be taught by professors:
 
-- David Wishart (University of Alberta, Canada) and
-- Alex Sanchez-Pla (University of Barcelona, Spain)
+- [David Wishart](https://www.tmicwishartnode.ca/) (University of Alberta, Canada), 
+- [Alex Sanchez-Pla](https://webgrec.ub.edu/webpages/tmp/cat/asanchez.ub.edu.html) (University of Barcelona, Spain)
 
 # Objectives
 

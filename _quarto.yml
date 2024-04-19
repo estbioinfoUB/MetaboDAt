@@ -4,14 +4,14 @@ project:
 website:
   title: "Metabolomics Data Analysis Course"
   sidebar:
-  background: primary
+    background: primary
     style: docked
     search: true
     contents:
       - href: index.qmd
         text: Home
-      - Sessions and Schedule
-        sessions.qmd
+      - heref: sessions.qmd
+        text: Sessions and Schedule
 
 format:
   html:

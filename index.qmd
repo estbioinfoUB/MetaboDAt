@@ -10,6 +10,11 @@ This course covers a wide range of topics ranging from understanding metabolomic
 
 Hands-on practical tutorials using various data sets and tools will assist participants in learning metabolomics analysis techniques.
 
+The course will be taught by professors:
+
+- David Wishart (University of Alberta, Canada) and
+- Alex Sanchez-Pla (University of Barcelona, Spain)
+
 # Objectives
 
 - Lear to correctly design metabolome-focused experiments.
@@ -30,7 +35,7 @@ Hands-on practical tutorials using various data sets and tools will assist parti
 
 3. Statistics for metabolomics: From tests to projections. (*Alex Sánchez*)
 
-4. Metabolomics data analysis with MetaboAnalyst (*David Wishartñ* and *Alex Sanchez*)
+4. Metabolomics data analysis with MetaboAnalyst (*David Wishart* and *Alex Sanchez*)
 
 5. Machine learning and Artificial Intelligence applied to metabolomics (*Alex Sánchez*)
 

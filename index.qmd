@@ -12,34 +12,34 @@ Hands-on practical tutorials using various data sets and tools will assist parti
 
 The course will be taught by professors:
 
-- [David Wishart](https://www.tmicwishartnode.ca/) (University of Alberta, Canada), 
-- [Alex Sanchez-Pla](https://webgrec.ub.edu/webpages/tmp/cat/asanchez.ub.edu.html) (University of Barcelona, Spain)
+-   [David Wishart](https://www.tmicwishartnode.ca/) (University of Alberta, Canada),
+-   [Alex Sanchez-Pla](https://webgrec.ub.edu/webpages/tmp/cat/asanchez.ub.edu.html) (University of Barcelona, Spain)
 
 # Objectives
 
-- Lear to correctly design metabolome-focused experiments.
+-   Lear to correctly design metabolome-focused experiments.
 
-- Understand advantages and limitations of metabolomic data analysis.
+-   Understand advantages and limitations of metabolomic data analysis.
 
-- Present bioinformatics workflows for metabolomic data. 
+-   Present bioinformatics workflows for metabolomic data.
 
-- Learn how to select and apply statistics and Machine learning to undertake rigorous data analysis.
+-   Learn how to select and apply statistics and Machine learning to undertake rigorous data analysis.
 
-- Visualize datasets to gain intuitive insights into the composition and/or activity of their metabolome
+-   Visualize datasets to gain intuitive insights into the composition and/or activity of their metabolome
 
 # Contents
 
-1. Fundamentals of metabolomics (*David Wishart*)
+1.  Fundamentals of metabolomics (*David Wishart*)
 
-2. Targeted metabolomics with MEGA and LC-Autofit (*David Wishart*)
+2.  Targeted metabolomics with MEGA and LC-Autofit (*David Wishart*)
 
-3. Statistics for metabolomics: From tests to projections. (*Alex Sánchez*)
+3.  Statistics for metabolomics: From tests to projections. (*Alex Sánchez*)
 
-4. Metabolomics data analysis with MetaboAnalyst (*David Wishart* and *Alex Sanchez*)
+4.  Metabolomics data analysis with MetaboAnalyst (*David Wishart* and *Alex Sanchez*)
 
-5. Machine learning and Artificial Intelligence applied to metabolomics (*Alex Sánchez*)
+5.  Machine learning and Artificial Intelligence applied to metabolomics (*Alex Sánchez*)
 
-6. Pathway Analysis and Biological Significance (*Alex Sánchez*)
+6.  Pathway Analysis and Biological Significance (*Alex Sánchez*)
 
 # Target Audience
 
@@ -47,17 +47,15 @@ This course is intended for graduate students, post-doctoral fellows, clinical f
 
 # Number of participants, dates and registration
 
-- Number of participants: 25
+-   Number of participants: 25
 
-- Duration: 11th – 14th  June 2024
+-   Duration: 11th – 14th June 2024
 
-- Registration fee: 60 Euros (+21% VAT) for academic researchers (10% discount if agreed) 500€ (+21% VAT) for industry. It only includes participation in workshop and coffee breaks. Materials will be provided online
+-   Registration fee: 60 Euros (+21% VAT) for academic researchers (10% discount if agreed) 500€ (+21% VAT) for industry. It only includes participation in workshop and coffee breaks. Materials will be provided online
 
-- Pre-register HERE (**link opens on April 24**)
+-   Pre-register HERE (**link opens on April 24**)
 
-- Selection criteria: Participants will be selected according to their CV and motivation statement.
-Selected participants will be notified via email by mid May 2024.
-
+-   Selection criteria: Participants will be selected according to their CV and motivation statement. Selected participants will be notified via email by mid May 2024.
 
 # Prerrequisites
 
@@ -67,9 +65,10 @@ You will require your own laptop computer. Minimum requirements: 1024×768 scree
 
 There workshop requires participants to complete pre-workshop tasks and readings, to be available form this website soon.
 
-
 # Venue
 
 Facultat de Biologia de la Universitat de Barcelona. Classrooms available soon.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5986.9439854617185!2d2.1172419771982787!3d41.385555071300274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4985836879a07%3A0x41dacfc1418777fc!2sFacultad%20de%20Biolog%C3%ADa%20Universidad%20de%20Barcelona!5e0!3m2!1ses!2ses!4v1713525236790!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5986.9439854617185!2d2.1172419771982787!3d41.385555071300274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4985836879a07%3A0x41dacfc1418777fc!2sFacultad%20de%20Biolog%C3%ADa%20Universidad%20de%20Barcelona!5e0!3m2!1ses!2ses!4v1713525236790!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>

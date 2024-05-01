@@ -1,23 +1,47 @@
 ---
-title: "Metabolomics Data Analysis Course"
+title: "Targeted Metabolomics Data Analysis.  Unlocking insights with Machine Learning, AI and Statistics"
 ---
+
+![](images/logos1.png){width="90%"}
 
 # Overview
 
 Using high-throughput technologies, life science researchers can identify and characterize all the small molecules or metabolites in a given cell, tissue, or organism.
 
-This course covers a wide range of topics ranging from understanding metabolomics technologies, data collection and analysis, using pathway databases, performing pathway analysis, conducting univariate and multivariate statistics, working with metabolomic databases, and exploring chemical databases.
+This non-profit course covers a wide range of topics ranging from understanding metabolomics technologies, data collection and analysis, using pathway databases, performing pathway analysis, conducting univariate and multivariate statistics, working with metabolomic databases, and exploring chemical databases.
 
 Hands-on practical tutorials using various data sets and tools will assist participants in learning metabolomics analysis techniques.
+
+# Organizers
+
+The course is organized by the [Faculty of Biology](https://www.ub.edu/portal/web/biology) and [Faculty of Pharmacy and Food Sciences](https://www.ub.edu/portal/web/farmacia-en/home) of the [University of Barcelona](https://web.ub.edu/inici), [The Metabolics Innovation Center (TMIC)](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi-6tn72OmFAxVPLgYAHa99DoEYABABGgJ3cw&ase=2&gclid=CjwKCAjwrcKxBhBMEiwAIVF8rK6JO-mrj7NxWThYrKdhvusBDT_0lYjOgAUgVZezqDd7RE2l-CsSihoCPDoQAvD_BwE&ohost=www.google.com&cid=CAESV-D2w5IzmDu3potOFgLxC_qaczcMUnKhMD0U72zVIvBIuiysXlmlG7R9DXzehHqRiwvnpJ4q09KbAtV6WmL_OU9asnNlD9Jlqskv2X0IxtBs6jOEFALqeQ&sig=AOD64_08iLxIFKSnrvtIZVQt1zVU08AM3Q&q&nis=4&adurl&ved=2ahUKEwi36tD72OmFAxXX1wIHHcPgC3cQ0Qx6BAgEEAM) of the [University of Alberta]() and the [Frailty and Healthy Ageing-CIBERFES](https://www.ciberfes.es/en/about-us/welcome-from-the-scientific-director).
+
+-   David Wishart, University of Alberta, Canadá
+
+-   Alex Sanchez, University of Barcelona, CIBERFES-ISCIII
+
+-   Cristina Andres-Lacueva, University of Barcelona, CIBERFES-ISCIII
+
+-   Xavier Nogués, IMIM-Hospital del Mar, CIBERFES-ISCIII
+
+-   Pedro Abizanda, Servicio de Salud de castilla la Mancha (SESCAM), CIBERFES-ISCIII
+
+-   Anna Guadall, University of Barcelona
+
+-   Miriam Martínez Huélamo, University of Barcelona, CIBERFES-ISCIII
+
+# Speakers
 
 The course will be taught by professors:
 
 -   [David Wishart](https://www.tmicwishartnode.ca/) (University of Alberta, Canada),
 -   [Alex Sanchez-Pla](https://webgrec.ub.edu/webpages/tmp/cat/asanchez.ub.edu.html) (University of Barcelona, Spain)
+-   Xavier Nogués (Hospital del Mar, Spain)
+-   Cristina Andrés-Lacueva ((University of Barcelona, Spain)
 
 # Objectives
 
--   Lear to correctly design metabolome-focused experiments.
+-   Learn to correctly design metabolome-focused experiments.
 
 -   Understand advantages and limitations of metabolomic data analysis.
 
@@ -41,21 +65,44 @@ The course will be taught by professors:
 
 6.  Pathway Analysis and Biological Significance (*Alex Sánchez*)
 
+Organizers
+
 # Target Audience
 
 This course is intended for graduate students, post-doctoral fellows, clinical fellows and investigators who are interested in learning about both bioinformatic and cheminformatic tools to analyze and interpret metabolomics data.
 
-# Number of participants, dates and registration
+# Registration, Dates and Number of participants
 
 -   Number of participants: 25
 
--   Duration: 11th – 14th June 2024
+-   Duration: 11th -- 14th June 2024
 
 -   Registration fee: 60 Euros (+21% VAT) for academic researchers (10% discount if agreed) 500€ (+21% VAT) for industry. It only includes participation in workshop and coffee breaks. Materials will be provided online
 
--   Pre-register HERE (**link opens on April 24**)
+-   There will be a candidate pre-selection in order to warrant everybody the same possibilities to participate in the course. Candidates need to register in the link below and they will be notified their acceptance by May the 2
 
--   Selection criteria: Participants will be selected according to their CV and motivation statement. Selected participants will be notified via email by mid May 2024.
+ 
+ <!-- # Optional caption (important) -->
+ <!-- # Hide callout body with 'collapse=true' -->
+ <!-- # Remove 'collapse' to prevent expandability -->
+ <!-- # Set appearance to 'default', 'simple' or 'minimal' -->
+ <!-- # Remove icon with 'icon=false' -->
+
+::: {.callout-important icon=true}
+
+## Pre-selection
+
+Pre-selection goes from **May the 2nd to May the 15th**. [PRE-REGISTRATION SURVEY](https://forms.gle/AexPUU8CRrCxpauW9 "Click here to do the pre-registration survay")
+
+:::
+
+- Selection criteria: Participants will be selected according to their CV and motivation statement.
+
+::: {.callout-note icon=true}
+
+- **Accepted candidates** will be notified by **May the 21st. REGISTRATION LINK**
+
+:::
 
 # Prerrequisites
 

@@ -2,4 +2,9 @@
 title: "Sessions and Schedule"
 ---
 
-## 
+## Course Sessions
+
+```{r echo=FALSE}
+knitr::include_graphics("images/comingsoon.jpg")
+```
+<a href="http://www.freepik.com">Designed by starline / Freepik</a>

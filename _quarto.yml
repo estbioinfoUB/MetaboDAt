@@ -10,7 +10,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - heref: sessions.qmd
+      - href: sessions.qmd
         text: Sessions and Schedule
 
 format:

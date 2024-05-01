@@ -65,7 +65,6 @@ The course will be taught by professors:
 
 6.  Pathway Analysis and Biological Significance (*Alex Sánchez*)
 
-Organizers
 
 # Target Audience
 
@@ -79,7 +78,7 @@ This course is intended for graduate students, post-doctoral fellows, clinical f
 
 -   Registration fee: 60 Euros (+21% VAT) for academic researchers (10% discount if agreed) 500€ (+21% VAT) for industry. It only includes participation in workshop and coffee breaks. Materials will be provided online
 
--   There will be a candidate pre-selection in order to warrant everybody the same possibilities to participate in the course. Candidates need to register in the link below and they will be notified their acceptance by May the 2
+-   There will be a candidate pre-selection in order to warrant everybody the same possibilities to participate in the course. **Candidates need fill the pre-registration survey below.**
 
  
  <!-- # Optional caption (important) -->
@@ -96,11 +95,13 @@ Pre-selection goes from **May the 2nd to May the 15th**. [PRE-REGISTRATION SURVE
 
 :::
 
-- Selection criteria: Participants will be selected according to their CV and motivation statement.
+- Participants will be selected Candidates will be selected based on availability of places, CV and motivation statement. 
+
+- Accepted candidates will be notified by **May the 21st**. 
 
 ::: {.callout-note icon=true}
 
-- **Accepted candidates** will be notified by **May the 21st. REGISTRATION LINK**
+- Complete this link after acceptance notification: **REGISTRATION LINK**
 
 :::
 

@@ -2,7 +2,15 @@
 title: "Targeted Metabolomics Data Analysis.  Unlocking insights with Machine Learning, AI and Statistics"
 ---
 
+<hr>
 ![](images/logos1.png){width="90%"}
+<hr>
+
+[![](images/nutrimetabolomics.png){width="40%" align="left"}](https://www.nutrimetabolomics.com)
+![](images/blank.png){width="15%" align="center"}
+[![](images/estbioinfo.png){width="40%" align="right"}](http://www.ub.edu/estbioinfo/)
+
+<hr>
 
 # Overview
 
@@ -24,7 +32,7 @@ The course is organized by the [Faculty of Biology](https://www.ub.edu/portal/we
 
 -   Xavier Nogués, IMIM-Hospital del Mar, CIBERFES-ISCIII
 
--   Pedro Abizanda, Servicio de Salud de castilla la Mancha (SESCAM), CIBERFES-ISCIII
+-   Pedro Abizanda, Servicio de Salud de Castilla la Mancha (SESCAM), CIBERFES-ISCIII
 
 -   Anna Guadall, University of Barcelona
 
@@ -47,23 +55,23 @@ The course will be taught by professors:
 
 -   Present bioinformatics workflows for metabolomic data.
 
--   Learn how to select and apply statistics and Machine learning to undertake rigorous data analysis.
+-   Learn how to select and apply Statistics and Machine learning to undertake rigorous data analysis.
 
 -   Visualize datasets to gain intuitive insights into the composition and/or activity of their metabolome
 
 # Contents
 
-1.  Fundamentals of metabolomics (*David Wishart*)
+1.  Fundamentals of metabolomics.
 
-2.  Targeted metabolomics with MEGA and LC-Autofit (*David Wishart*)
+2.  Targeted metabolomics with MEGA and LC-Autofit.
 
-3.  Statistics for metabolomics: From tests to projections. (*Alex Sánchez*)
+3.  Statistics for metabolomics: From tests to projections.
 
-4.  Metabolomics data analysis with MetaboAnalyst (*David Wishart* and *Alex Sanchez*)
+4.  Metabolomics data analysis with MetaboAnalyst.
 
-5.  Machine learning and Artificial Intelligence applied to metabolomics (*Alex Sánchez*)
+5.  Machine learning and Artificial Intelligence applied to metabolomics.
 
-6.  Pathway Analysis and Biological Significance (*Alex Sánchez*)
+6.  Pathway Analysis and Biological Significance.
 
 
 # Target Audience
@@ -72,11 +80,16 @@ This course is intended for graduate students, post-doctoral fellows, clinical f
 
 # Registration, Dates and Number of participants
 
--   Number of participants: 25
+-   *Number of participants*: **25**
 
--   Duration: 11th -- 14th June 2024
+-   *Duration*: **11th - 14th June 2024**
 
--   Registration fee: 60 Euros (+21% VAT) for academic researchers (10% discount if agreed) 500€ (+21% VAT) for industry. It only includes participation in workshop and coffee breaks. Materials will be provided online
+-   *Registration fee*: 
+
+     - **60 Euros (+21% VAT) for academic researchers** (10% discount if agreed),
+      - **500€ (+21% VAT) for industry**. 
+  
+   It only includes participation in workshop and coffee breaks. Materials will be provided online
 
 -   There will be a candidate pre-selection in order to warrant everybody the same possibilities to participate in the course. **Candidates need fill the pre-registration survey below.**
 

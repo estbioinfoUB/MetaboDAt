@@ -3,12 +3,18 @@ title: "Targeted Metabolomics Data Analysis.  Unlocking insights with Machine Le
 ---
 
 <hr>
-![](images/logos1.png){width="90%"}
+
+![](images/logosUniversitats.png){width="100%"}
+
 <hr>
 
-[![](images/nutrimetabolomics.png){width="40%" align="left"}](https://www.nutrimetabolomics.com)
-![](images/blank.png){width="15%" align="center"}
-[![](images/estbioinfo.png){width="40%" align="right"}](http://www.ub.edu/estbioinfo/)
+[![](images/01-biomarkers&nutrimetabolomics.svg){width="40%" align="left"}](https://www.nutrimetabolomics.com) ![](images/blank.png){width="15%" align="center"} [![](images/estbioinfo.png){width="30%"
+align="right"}](http://www.ub.edu/estbioinfo/)
+[![](images/GRBio.png){width="10%"
+align="right"}](http://GRBio.upc.edu/)
+
+
+<!-- ![](images/logosGrups.png){width="100%"} -->
 
 <hr>
 
@@ -73,7 +79,6 @@ The course will be taught by professors:
 
 6.  Pathway Analysis and Biological Significance.
 
-
 # Target Audience
 
 This course is intended for graduate students, post-doctoral fellows, clinical fellows and investigators who are interested in learning about both bioinformatic and cheminformatic tools to analyze and interpret metabolomics data.
@@ -84,39 +89,27 @@ This course is intended for graduate students, post-doctoral fellows, clinical f
 
 -   *Duration*: **11th - 14th June 2024**
 
--   *Registration fee*: 
+-   *Registration fee*:
 
-     - **60 Euros (+21% VAT) for academic researchers** (10% discount if agreed),
-      - **500€ (+21% VAT) for industry**. 
-  
-   It only includes participation in workshop and coffee breaks. Materials will be provided online
+    -   **60 Euros (+21% VAT) for academic researchers** (10% discount if agreed),
+    -   **500€ (+21% VAT) for industry**.
 
--   There will be a candidate pre-selection in order to warrant everybody the same possibilities to participate in the course. **Candidates need fill the pre-registration survey below.**
+It only includes participation in workshop and coffee breaks. Materials will be provided online
 
- 
- <!-- # Optional caption (important) -->
- <!-- # Hide callout body with 'collapse=true' -->
- <!-- # Remove 'collapse' to prevent expandability -->
- <!-- # Set appearance to 'default', 'simple' or 'minimal' -->
- <!-- # Remove icon with 'icon=false' -->
 
-::: {.callout-important icon=true}
+::: {.callout-important icon="true"}
+## Late registration
 
-## Pre-selection
-
-Pre-selection goes from **May the 2nd to May the 15th**. [PRE-REGISTRATION SURVEY](https://forms.gle/AexPUU8CRrCxpauW9 "Click here to do the pre-registration survay")
-
+There are a few places left so, in case you still want to register you may [try this link](https://www.ub.edu/insact/alumnes/inici.php?idioma=1&id=47846ebfe8013a84acb5)
 :::
 
-- Participants will be selected Candidates will be selected based on availability of places, CV and motivation statement. 
+<!-- -   Participants will be selected Candidates will be selected based on availability of places, CV and motivation statement. -->
 
-- Accepted candidates will be notified by **May the 21st**. 
+<!-- -   Accepted candidates will be notified by **May the 21st**. -->
 
-::: {.callout-note icon=true}
-
-- Complete this link after acceptance notification: **REGISTRATION LINK**
-
-:::
+<!-- ::: {.callout-note icon="true"} -->
+<!-- -   Complete this link after acceptance notification: **REGISTRATION LINK** -->
+<!-- ::: -->
 
 # Prerrequisites
 
@@ -126,10 +119,4 @@ You will require your own laptop computer. Minimum requirements: 1024×768 scree
 
 There workshop requires participants to complete pre-workshop tasks and readings, to be available form this website soon.
 
-# Venue
 
-Facultat de Biologia de la Universitat de Barcelona. Classrooms available soon.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5986.9439854617185!2d2.1172419771982787!3d41.385555071300274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4985836879a07%3A0x41dacfc1418777fc!2sFacultad%20de%20Biolog%C3%ADa%20Universidad%20de%20Barcelona!5e0!3m2!1ses!2ses!4v1713525236790!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-
-</iframe>

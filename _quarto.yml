@@ -12,6 +12,8 @@ website:
         text: Home
       - href: sessions.qmd
         text: Sessions and Schedule
+      - href: venue.qmd
+        text: Venue and Logistics
 
 format:
   html:

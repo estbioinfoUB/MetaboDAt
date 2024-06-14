@@ -12,39 +12,39 @@ title: "Sessions and Schedule"
 
 <!-- <a href="http://www.freepik.com">Designed by starline / Freepik</a> -->
 
-| **June 11th - David**          | **Background on Metabolomics**                                                                                                                     |
+| **June 11th - David**          | **Background on Metabolomics**                                                                                                                                                     |
 |:------------------------|:----------------------------------------------|
-| 9:00-9:30                      | Institutional Welcome <br> Introductions and orientations.  [Slides](https://docs.google.com/presentation/d/1IefGFQbA365g5zf2FDOCeEOsigqkdZ0j/edit#slide=id.p1)                                                                                          |
-| 9:30-10:30                     | Introduction to metabolomics. [Slides](https://docs.google.com/presentation/d/1bBXWHHZqj6lmkNftTCXQKL9w67Xq2WHY/edit?usp=drive_link&ouid=107436688548044478084&rtpof=true&sd=true)               |
-| 10:30-11:00                    | Coffee                                                                                                                                             |
-| 11:00-12:00                    | Metabolomics data and databases [Slides](https://docs.google.com/presentation/d/15JSk1XTFgUqXbuaz7gMmeRZ4nhKfIjjQ/edit#slide=id.p16)             |
-| 12:00-13:00                    | Targeted vs. untargeted metabolomics [Slides](https://docs.google.com/presentation/d/1S5VFKtbctzdJhoYlKDHzc20dMf_8RPsS/edit#slide=id.p16)        |
-| 13:00-14:00                    | Lunch (on your own)                                                                                                                                |
-| 14:00-15:00                    | Quantification in MS-based metabolomics [Slides](https://docs.google.com/presentation/d/1HEh-ReOaZnmtlEMi_MIHUB-ibFZTLqTc/edit#slide=id.p79)     |
-| 15:00-15:30                    | Isotopic labeling and isotope standards [Slides](https://docs.google.com/presentation/d/1HEh-ReOaZnmtlEMi_MIHUB-ibFZTLqTc/edit#slide=id.p16)     |
-| 15:30-16:30                    | Coffee                                                                                                                                             |
-| 16:00-17:00                    | Designing a quantitative metabolomics assay [Slides](https://docs.google.com/presentation/d/1fW5X_deMwF1XUsrMqrHbAkISwKK0bkg0/edit#slide=id.p34) |
-| **June 12th - David**          | **The MEGA assay and the LC-AutoFit software**                                                                                                     |
-| 9:00-10:30                     | The MEGA metabolomics assay [Slides](https://docs.google.com/presentation/d/1bBXWHHZqj6lmkNftTCXQKL9w67Xq2WHY/edit?usp=drive_link)                 |
-| 10:30-11:00                    | Coffee                                                                                                                                             |
-| 11:00-12:00                    | Introduction to LC-AutoFit [Slides](https://docs.google.com/presentation/d/1AOetRAPfqMhLYKHF5mn6plQQKqLFHu9Y/edit?usp=drive_link)                  |
-| 12:00-13:00                    | Lab: Running LC-AutoFit on real data [Slides]()                                                                                                    |
-| 13:00-14:00                    | Lunch (on your own)                                                                                                                                |
-| 14:00-15:30                    | Lab: Running LC-AutoFit on real data                                                                                                               |
-| 15:30-16:00                    | Coffee                                                                                                                                             |
-| 16:00-17:00                    | Biomarkers, ratios and reference data [Slides](https://docs.google.com/presentation/d/1aJn2SJINoOt2LiZbXI3Jxf9PpFVBHd50/edit?usp=drive_link)       |
-| **June 13th - (Alex & David)** | **Basic Data Analysis**                                                                                                                            |
-| 9:00-10:30                     | Basic Statistics review (Alex) [Slides]()                                                                                                          |
-| 10:30-11:00                    | Coffee                                                                                                                                             |
-| 11:00-13:00                    | Advanced Statistics & Metabolomics (Alex) [Slides]()                                                                                               |
-| 13:00-14:00                    | Lunch (on your own)                                                                                                                                |
-| 14:00-15:30                    | Introduction to MetaboAnalyst (David) [Slides](https://docs.google.com/presentation/d/1IpZLEPsRc9YwMKSNM8mkgEAitsRWVvbP/edit?usp=drive_link)       |
-| 15:30-16:00                    | Coffee                                                                                                                                             |
-| 16:00-17:00                    | Lab: Analyzing MEGA data with MetaboAnalyst (David)                                                                                                |
-| **June 14th - Alex**           | **Advanced Data Analysis**                                                                                                                         |
-| 9:00-10:30                     | Machine learning methods in metabolomics [Slides]()                                                                                                |
-| 10:30-11:00                    | Coffee                                                                                                                                             |
-| 11:00-13:00                    | Advanced machine and AI in metabolomics (Theory/Lab)                                                                                               |
-| 13:00-14:00                    | Lunch (on your own)                                                                                                                                |
-| 14:00-16:00                    | Pathway Analysis (Theory / lab) [Slides]()                                                                                                         |
-| 16:00-17:00                    | New Frontiers in Metabolomics & Farewell                                                                                                           |
+| 9:00-9:30                      | Institutional Welcome <br> Introductions and orientations. [Slides](https://docs.google.com/presentation/d/1IefGFQbA365g5zf2FDOCeEOsigqkdZ0j/edit#slide=id.p1)                     |
+| 9:30-10:30                     | Introduction to metabolomics. [Slides](https://docs.google.com/presentation/d/1bBXWHHZqj6lmkNftTCXQKL9w67Xq2WHY/edit?usp=drive_link&ouid=107436688548044478084&rtpof=true&sd=true) |
+| 10:30-11:00                    | Coffee                                                                                                                                                                             |
+| 11:00-12:00                    | Metabolomics data and databases [Slides](https://docs.google.com/presentation/d/15JSk1XTFgUqXbuaz7gMmeRZ4nhKfIjjQ/edit#slide=id.p16)                                               |
+| 12:00-13:00                    | Targeted vs. untargeted metabolomics [Slides](https://docs.google.com/presentation/d/1S5VFKtbctzdJhoYlKDHzc20dMf_8RPsS/edit#slide=id.p16)                                          |
+| 13:00-14:00                    | Lunch (on your own)                                                                                                                                                                |
+| 14:00-15:00                    | Quantification in MS-based metabolomics [Slides](https://docs.google.com/presentation/d/1HEh-ReOaZnmtlEMi_MIHUB-ibFZTLqTc/edit#slide=id.p79)                                       |
+| 15:00-15:30                    | Isotopic labeling and isotope standards [Slides](https://docs.google.com/presentation/d/1HEh-ReOaZnmtlEMi_MIHUB-ibFZTLqTc/edit#slide=id.p16)                                       |
+| 15:30-16:30                    | Coffee                                                                                                                                                                             |
+| 16:00-17:00                    | Designing a quantitative metabolomics assay [Slides](https://docs.google.com/presentation/d/1fW5X_deMwF1XUsrMqrHbAkISwKK0bkg0/edit#slide=id.p34)                                   |
+| **June 12th - David**          | **The MEGA assay and the LC-AutoFit software**                                                                                                                                     |
+| 9:00-10:30                     | The MEGA metabolomics assay [Slides](https://docs.google.com/presentation/d/1bBXWHHZqj6lmkNftTCXQKL9w67Xq2WHY/edit?usp=drive_link)                                                 |
+| 10:30-11:00                    | Coffee                                                                                                                                                                             |
+| 11:00-12:00                    | Introduction to LC-AutoFit [Slides](https://docs.google.com/presentation/d/1AOetRAPfqMhLYKHF5mn6plQQKqLFHu9Y/edit?usp=drive_link)                                                  |
+| 12:00-13:00                    | Lab: Running LC-AutoFit on real data [Slides]()                                                                                                                                    |
+| 13:00-14:00                    | Lunch (on your own)                                                                                                                                                                |
+| 14:00-15:30                    | Lab: Running LC-AutoFit on real data                                                                                                                                               |
+| 15:30-16:00                    | Coffee                                                                                                                                                                             |
+| 16:00-17:00                    | Biomarkers, ratios and reference data [Slides](https://docs.google.com/presentation/d/1aJn2SJINoOt2LiZbXI3Jxf9PpFVBHd50/edit?usp=drive_link)                                       |
+| **June 13th - (Alex & David)** | **Basic Data Analysis**                                                                                                                                                            |
+| 9:00-10:30                     | Basic Statistics review (Alex) [Slides](https://github.com/ASPteaching/stats-ml-4metabolomics/blob/main/3.1-StatisticsBackground.pdf)                                                                                                              |
+| 10:30-11:00                    | Coffee                                                                                                                                                                             |
+| 11:00-13:00                    | Advanced Statistics & Metabolomics (Alex) [Slides](https://github.com/ASPteaching/stats-ml-4metabolomics/blob/main/3.2-MultivariateStat-and-ML.pdf)                                                                                                                               |
+| 13:00-14:00                    | Lunch (on your own)                                                                                                                                                                |
+| 14:00-15:30                    | Introduction to MetaboAnalyst (David) [Slides](https://docs.google.com/presentation/d/1IpZLEPsRc9YwMKSNM8mkgEAitsRWVvbP/edit?usp=drive_link)                                       |
+| 15:30-16:00                    | Coffee                                                                                                                                                                             |
+| 16:00-17:00                    | Lab: Analyzing MEGA data with MetaboAnalyst (David)                                                                                                                                |
+| **June 14th - Alex**           | **Advanced Data Analysis**                                                                                                                                                         |
+| 9:00-10:30                     | Machine Learning in metabolomics [Slides](https://aspteaching.github.io/stats-ml-4metabolomics/4.1-Machine_Learning_4Metabolomics.html#/title-slide). [DW's-MLIntro](https://drive.google.com/file/d/1wHJ9nxyyBNs9nHbzmHMFaYqVc4wKN1Aj/view?usp=drive_link)                                                                                                                                |
+| 10:30-11:00                    | Coffee                                                                                                                                                                             |
+| 11:00-13:00                    | Advanced machine and AI in metabolomics [Slides](https://aspteaching.github.io/stats-ml-4metabolomics/4.2-Advanced_Machine_Learning_and_AI4Metabolomics.html#/title-slide)                                                                                                                               |
+| 13:00-14:00                    | Lunch (on your own)                                                                                                                                                                |
+| 14:00-16:00                    | Pathway Analysis (Theory / lab) [Slides](https://aspteaching.github.io/AnIntro2PWA4Metabolomics/PWA-4_Metabolomics-Slides.html#/title-slide)                                                                                                                                         |
+| 16:00-17:00                    | New Frontiers in Metabolomics & Farewell                                                                                                                                           |

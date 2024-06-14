@@ -1,0 +1,23 @@
+---
+title: "Course Materials"
+---
+
+# References
+
+
+
+# Links
+
+##  [Rafael Irizarry's teaching resources](https://rafalab.dfci.harvard.edu/pages/teaching.html)
+
+- Special mention of [Data Analysis for the life sciences](https://leanpub.com/dataanalysisforthelifesciences)
+  
+## [Bioinfomatics Canada Courses](https://bioinformatics.ca/workshops/current-workshops/)
+
+-  [Machine Learning (David Wishart)](https://bioinformatics.ca/workshops-all/2023-machine-learning/)
+
+- [Metabolomics Analysis (Daviod Wishart &Jianguo Xia)](https://bioinformatics.ca/workshops-all/2023-metabolomics-analysis/)
+
+## [VHIR Statistical and Bioinformatics Unit Teaching Materials](https://uebvhir.github.io/teaching.html)
+
+  
